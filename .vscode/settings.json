@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "python.pythonPath": "/home/h0tfix/.virtualenvs/bots/bin/python",
+    "python.autoComplete.extraPaths": [
+        "/home/h0tfix/.virtualenvs/bots/lib/python2.7",
+        "/home/h0tfix/.virtualenvs/bots/lib/python2.7/site-packages"
+     ]
+}
